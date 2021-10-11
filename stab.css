@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.q {
+	position: absolute;
+	left: 800px;
+	top: 0px;
+}
+.q1 {
+	position: absolute;
+	left: 800px;
+	top: 200px;
+}
+.q2 {
+	position: absolute;
+	left: 800px;
+	top: 400px;
+}
+.q3 {
+	position: absolute;
+	left: 800px;
+	top: 600px;
+}
+.q4 {
+	position: absolute;
+	left: -70px;
+	top: 290px;
+}
+.q5 {
+	position: absolute;
+	left: -75px;
+	top: 10px;
+}
+
+.pic {
+	position: absolute;
+	left: 0px;
+	
+}
+.text1{
+	position: absolute;
+	right: 500px;
+	top: 300px;
+	color: lightgrey;
+	
+}
