@@ -6,19 +6,30 @@
 }
 .what2 {
 	position: absolute;
+	left: 175px;
+	top: 150px;
 }
 .what3 {
 	position: absolute;
+	left: 850px;
+	top: 150px;
 }
 .what4 {
 	position: absolute;
+	left: 200px;
+	top: 250px;
 }
 .what5 {
 	position: absolute;
+	left: 850px;
+	bottom: 250px;
 }
 .what6 {
 	position: absolute;
+	left: 175px;
+	bottom: 370px;
 }
 .what7 {
 	position: absolute;
-}
+	left: 550px;
+	top: 250px;
