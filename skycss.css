@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.blank{
+	position: absolute;
+	right: -200px;
+	top: 10%;
+}
+.blank2{
+	position: absolute;
+	right: 0px;
+	top: 80%;
+}
+.leaves {
+  background-image: url("leaves.png");
+  position: absolute;
+  left: 449px;
+  top: 8px;
+  width: 595px;
+  height: 626px;
+  z-index: 2;
+}
+
+.bg {
+	position: absolute;
+	left: 0;
+	right: 100px;
+}
+
+.GREEN_red_enter_gif {
+	position: absolute;
+	top: 200px;
+	left: 10%;
+}
