@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
-.what1 {
+.bg {
 	position: absolute;
+	left: 0px;
 }
 .what2 {
 	position: absolute;
